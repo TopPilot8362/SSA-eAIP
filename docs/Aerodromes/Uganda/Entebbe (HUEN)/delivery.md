@@ -1,22 +1,6 @@
 # Delivery
 HUEN doesn't have a dedicated Delivery Position, with Entebbe Apron (HUEN_GND) assuming the role of Delivery.
-## Route Validation
 
-!!! warning
-    All flights departing out of "ICAO" must have their route checked and be in compliance with the latest Route Matrix. The Route Matrix below has been provided for easy cross checking of flights. **Use either local matrix or Simbrief to find the routes - Remove this line**
-
-| Destination / FIR Exit | Routing                                              | Restrictions         | Remarks                  |
-| ---------------------- | ---------------------------------------------------- | -------------------- | ------------------------ |
-| "ICAO"                 |         -           | -                     | -                             |
-| "ICAO"                 |         -           | -                     | -                             |
-| "ICAO"                 |         -           | -                     | -                             |
-| "ICAO"                 |         -           | -                     | -                             |
-| "ICAO"                 |         -           | -                     | -                             |
-| "ICAO"                 |         -           | -                     | -                             |
-| "ICAO"                 |         -           | -                     | -                             |
-| "ICAO"                 |         -           | -                     | -                             |
-| "ICAO"                 |         -           | -                     | -                             |
-| "ICAO"                 |         -           | -                     | -                             |
 
 
 ## Departure Procedures
