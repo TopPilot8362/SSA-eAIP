@@ -1,6 +1,6 @@
 # Ground
 
-The responsibility of SMC at Entebbe falls to the dedicated Ground ATS unit, Entebbe Ground (HUEN_GND) on XXX.XXX MHz. SMC will be responsible for the aerodrome movements outside of the runway, including pushback and taxi to/from the runway. SMC will also be responsible for the initial call of VFR aircraft looking for start and taxi to the runway. 
+The responsibility of SMC at Entebbe falls to the dedicated Ground ATS unit, Entebbe Ground (HUEN_GND) on 121.900 MHz. SMC will be responsible for the aerodrome movements outside of the runway, including pushback and taxi to/from the runway. SMC will also be responsible for the initial call of VFR aircraft looking for start and taxi to the runway. 
 
 ## Visual Flight Rules (VFR) Aircraft.
 
@@ -14,59 +14,12 @@ On initial call with SMC, the VFR aircraft is expected to provide:
 
 Once this data has been received by the SMC controller, the controller shall then issue the QNH, Active, and if operating on a FPL, a discrete squawk code.
 
-!!! info "VFR Phraseology"
+ "VFR Phraseology"
     "ZSCPT, start up approved, Runway XX in use, QNH 1015, report ready for taxi."
-
-## Restrictions
-
-**Please talk about the relevant restirctions in regard to aircraft wingspan. You must mention Code F requirments if the airport is able to accomodate it**
-
-!!! info "VFR Phraseology"
-    "BAW09P, Confirm you are able to keep clear of the Bonair A350 ahead of you?"
-
-### Stand Restrictions
-
-The best suited Code F stands are: **Only use this section if the airport is CODE F compliant**
-
-- B17
-
-- B20
-
-- B23
-
-- B26
-
-- B29
-
-Controllers should issue these stands rather than any terminal ones.
-
-**MARS**
-
-**Only use is the airport has MARS**
-
-MARS — Multiple Aircraft Ramp System — is an airport gate design that allows a single aircraft parking stand to accommodate more than one type or size of aircraft.
-
-At "Airport Name", the following stands can be used in conjuction with each other, up to a maximum of Code X (max XXm wingspan) aircraft on them.
-| Stands | Blocks off Stand |
-| :---------: | :---------: |
-| XX | XX | 
-| XX | XX | 
-| XX | XX | 
-| XX | XX | 
-
 
 ## Pushback Procedures
 
 SMC controllers should remain vigilant at all times.
-
-
-| Runway in use | Direction |
-| :---------: | :---------: |
-| XX | N / S / W / E  |
-| XX | N / S / W / E  |
-| XX | N / S / W / E  |
-| XX | N / S / W / E  |
-
 
 **An aircraft must be squawking their assigned ASSR code provided in the clearance before pushback clearance is issued. If this is not the case, the SMC controller must instruct the pilot to do so BEFORE any push clearance is issued.**
 
@@ -79,8 +32,8 @@ By default, all aircraft should be taxied to the full length holding point unles
 
 | Runway in use | Intersection | TORA |
 | :---------: | :---------: | :---------: |
-| XX | XX | XXXX | 
-| XX | XX | XXXX |
+| 17 | A4 | XXXX | 
+| 35 | XX | XXXX |
 | XX | XX | XXXX |
 | XX | XX | XXXX |
 | XX | XX | XXXX |
