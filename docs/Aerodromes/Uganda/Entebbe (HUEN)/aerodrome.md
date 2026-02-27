@@ -19,13 +19,13 @@ The following table should only be to determine the Transition Level for "Airpor
 **TL reference table can be found [here](https://eaip2.vatssa.com/General/common/ssa-transition-table/).
 | QNH Range | TL |
 | :---------: | :---------: |
-| 946 - 962   | XX |
-| 963 - 979   | XX |
-| 980 - 996   | XX |
-| 997 - 1013  | XX |
-| 1014 - 1029 | XX |
-| 1030 - 1046 | XX |
-| 1047 - 1099 | XX |
+| 946 - 962   | FL70 |
+| 963 - 979   | FL75 |
+| 980 - 996   | FL70 |
+| 997 - 1013  | FL75 |
+| 1014 - 1029 | FL70 |
+| 1030 - 1046 | FL75 |
+| 1047 - 1099 | FL70 |
 
 ## Declared Distances
 
