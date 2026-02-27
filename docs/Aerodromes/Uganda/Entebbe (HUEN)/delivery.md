@@ -33,8 +33,8 @@ HUEN doesn't have a dedicated Delivery Position, with Entebbe Apron (HUEN_GND) a
 
 
 
-SID
-!!! info "Delivery Phraseology"
+
+ "Delivery Phraseology"
     "(callsign), cleared to (destination),, departure (SID), Intial Climb (intial climb), squawk (squawk)"
 
 
