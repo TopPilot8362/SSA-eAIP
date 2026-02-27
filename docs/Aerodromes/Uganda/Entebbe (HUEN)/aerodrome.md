@@ -6,10 +6,10 @@
 
 |  "Airport Name"    |                           |
 | :---------: | :----------------------------------: |
-| ICAO | XXXX |
-| IATA | XXX |
-| Elevation | XXXft |
-| Transition Altitude | XXXXXft |
+| ICAO | HUEN |
+| IATA | EBB |
+| Elevation | 3782ft |
+| Transition Altitude | 7000ft |
 | Transition Level | by ATC (see TL table) |
 | Mag Variation | XXº W |
 ## Transition Levels
@@ -46,9 +46,10 @@ The following table should only be to determine the Transition Level for "Airpor
 
 | Apron | Stands | Entry/Exit Point | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| Apron X | XX - XX | Twy X | - |
-| Apron X | XX - XX | Twy X | - |
-| GA Apron | XX - XX | Twy X | - |
+| Apron 1 | 1 - 25 | Twy C2/C3/D | - |
+| Apron 2 | A2-1 - A2-5 | Twy J1/J2/J3 | - |
+| Apron 4 | A4-30 - A4-38 | Twy H1 | - |
+| Apron 5 | 50 - 53 | Twy C1 | - |
 
 ## ATS Frequencies
 
