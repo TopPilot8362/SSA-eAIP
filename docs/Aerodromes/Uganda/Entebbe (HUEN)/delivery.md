@@ -31,7 +31,7 @@ HUEN doesn't have a dedicated Delivery Position, with Entebbe Apron (HUEN_GND) a
 
 ## Phraseology
 
-**The passing altitude to be issued in clearances is XXXXft.**
+
 
 SID
 !!! info "Delivery Phraseology"
