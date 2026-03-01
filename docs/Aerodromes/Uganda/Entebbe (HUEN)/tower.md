@@ -14,10 +14,10 @@ The responsibility of Tower at Entebbe falls to the dedicated Tower ATS unit, En
 
 * All circuits are conducted left hand normally, but may be conducted right hand at the discretion of the Tower controller.   
 
- "Circuit Clearance"
+ Circuit Clearance
     5XEBB, hold position, after departure Runway XX, L / R hand circuits, not above XXXXft, report L / R downwind Runway XX.
 
- "Circuit Clearance (Non STD)"
+ Circuit Clearance (Non STD)
     5XEBB, hold position, after departure Runway XX, non standard L / R hand circuits, not above XXXXft, report non standard L / R downwind Runway XX.
     
 ### VRP Map
