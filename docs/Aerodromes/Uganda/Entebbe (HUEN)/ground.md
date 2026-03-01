@@ -14,7 +14,7 @@ On initial call with SMC, the VFR aircraft is expected to provide:
 
 Once this data has been received by the SMC controller, the controller shall then issue the QNH, Active, and if operating on a FPL, a discrete squawk code.
 
- "VFR Phraseology"
+ VFR Phraseology
     "5XEBB, start up approved, Runway XX in use, QNH 1015, report ready for taxi."
 
 ## Pushback Procedures
