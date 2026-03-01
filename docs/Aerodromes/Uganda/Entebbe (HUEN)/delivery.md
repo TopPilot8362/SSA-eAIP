@@ -1,7 +1,17 @@
 # Delivery
 HUEN doesn't have a dedicated Delivery Position, with Entebbe Apron (HUEN_GND) assuming the role of Delivery.
 
+## Route Validation
 
+All flights departing out of "ICAO" must have their route checked and be in compliance with the latest Route Matrix. The Route Matrix below has been provided for easy cross checking of flights.*
+
+| Destination / FIR Exit | Routing                                              | Restrictions         | Remarks                  |
+| ---------------------- | ---------------------------------------------------- | -------------------- | ------------------------ |
+| HKJK                 |         PASAN UL433 NAKAT            | -                     | -                             |
+| HRYR                 |         NN L432 KNM          | -                     | -                             |
+| FAOR                 |         APNAD UG656 DVL NESAG UZ7 OKPIT           | -                     | -                             |
+| HTKJ                 |         OKSUM UL434 IMLAK           | -                     | -                             |
+| HAAB                 |         IMVIP UL432 EKBUL           | -                     | -                             |
 
 ## Departure Procedures
 
