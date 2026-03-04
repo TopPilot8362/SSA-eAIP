@@ -3,15 +3,7 @@
 The responsibility of Tower at Entebbe falls to the dedicated Tower ATS unit, Entebbe (HUEN_TWR) on 118.100. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the Entebbe CTR from GND.
 
 ## Visual Flight Rules (VFR) Aircraft
-
-| Type | Circuit Altitude |
-| :---------: | :---------: |
-| Jet | 5800ft |
-| Turbine / Piston | 5200ft |
-| Helicopter | 5200ft |
-
-**Not always available in some AIPs.**
-
+  * Circuit altitude is 5200ft.
 * All circuits are conducted left hand normally, but may be conducted right hand at the discretion of the Tower controller.   
 
  Circuit Clearance
@@ -27,12 +19,12 @@ VRP's publicly unavailable.
 ### VFR Runway 17 Departures / Arrivals
 
  Entry Clearance
-    "5XEBB, cleared to enter the CTR from the N / S / W / E, not above altitude XXXXft, report L / R downwind Runway 17."
+    "5XEBB, cleared to enter the CTR from the N / S / W / E, not above altitude 5200ft, report L / R downwind Runway 17."
 
 ### VFR Runway 35 Departures / Arrivals
 
  Entry Clearance
-    "5XEBB, cleared to enter the CTR from the N / S / W / E, not above altitude XXXXft, report L / R downwind Runway 35."
+    "5XEBB, cleared to enter the CTR from the N / S / W / E, not above altitude 5200ft, report L / R downwind Runway 35."
 
 ## Wake Seperation
 
@@ -56,8 +48,8 @@ VRP's publicly unavailable.
 
 ## Takeoff Phraseology
 
- Takeoff (Full Length)
-    "5XEBB, Runway XX full length, wind 080 degrees at 9 knots, cleared for takeoff."
+ !!! info "Takeoff (Full Length)"
+    "5XEBB, Runway XX full length, wind 160 degrees at 4 knots, cleared for takeoff."
 
- Takeoff (Intersection)
-    "5XEBB, Runway XX at XX, wind 080 degrees at 9 knots, cleared for takeoff."
+!!! info "Intersection Takeoffs"
+    "5XEBB, Runway XX at XX, wind 160 at 4 knots, cleared for takeoff."
