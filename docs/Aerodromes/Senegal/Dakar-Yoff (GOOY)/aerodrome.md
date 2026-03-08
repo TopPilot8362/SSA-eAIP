@@ -4,7 +4,7 @@ Dakar-Yoff Airport (IATA: DKR, ICAO: GOOY)
 
 ## Aerodrome Details
 
-|  "Airport Name"    |                           |
+|  Dakar-Yoff    |                           |
 | :---------: | :----------------------------------: |
 | ICAO | GOOY |
 | IATA | DKR |
@@ -22,30 +22,19 @@ Dakar-Yoff Airport (IATA: DKR, ICAO: GOOY)
 | 03    | 031º    | 1493     | 1493     | 1523     | 1493    | - |
 | 21    | 211º    | 1493     | 1693     | 1523     | 1493    | - |
 
-## Radio Navigation & Landing Aids
-
-| Type | ID | Frequency | Remarks | 
-| :---------: | :---------: | :---------: | :---------: |
-| XXX XXX | XXX | XXX.XXX MHZ | - | 
-| XXX XXX | XXX | XXX.XXX MHZ | - | 
-| XXX XXX | XXX | XXX.XXX MHZ | - |
-| XXX XXX | XXX | XXX.XXX MHZ | - | 
-
 ## Aprons 
 
 | Apron | Stands | Entry/Exit Point | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| Apron X | XX - XX | Twy X | - |
-| Apron X | XX - XX | Twy X | - |
-| GA Apron | XX - XX | Twy X | - |
+| Apron A/B | Free parking | Entry via apron J | - |
+| Apron J/N/H | J1 - J14 | Twy T/D/P | - |
+| Apron G | G15 - G29 | Twy R/T | - |
 
 ## ATS Frequencies
 
 | Position    | Callsign | Frequency | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| "ICAO"_ATIS  | "Airport Name" ATIS | XXX.XXX   | - |
-| "ICAO"_DEL   | "Airport Name" Delivery | XXX.XXX   | - |
-| "ICAO"_GND   | "Airport Name" "Ground / Apron"| XXX.XXX0   | - |
-| "ICAO"_TWR   | "Airport Name" Tower| XXX.XXX   | - |
-| "ICAO"_APP   | "Airport Name" "Approach / Radar" | XXX.XXX   | - |
-| "ICAO"_CTR   | "Airport Name" "Area / Centre / Radio" | XXX.XXX   | - |
+| GOOY_GND   | Yoff Ground | 121.900   | Fictional Position (used in events only) |
+| GOOY_TWR   | Yoff Tower | 118.100   | - |
+| GOBD_APP   | Diass Approach  | 120.500   | - |
+| GOOO_CTR   | Dakar Control | 129.500   | - |
