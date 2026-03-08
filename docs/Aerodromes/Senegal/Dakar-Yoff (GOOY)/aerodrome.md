@@ -1,37 +1,26 @@
 # Aerodrome Data
 
-"Airport Name" Airport (IATA: XXX, ICAO: XXX) 
+Dakar-Yoff Airport (IATA: DKR, ICAO: GOOY) 
 
 ## Aerodrome Details
 
 |  "Airport Name"    |                           |
 | :---------: | :----------------------------------: |
-| ICAO | XXXX |
-| IATA | XXX |
-| Elevation | XXXft |
-| Transition Altitude | XXXXXft |
-| Transition Level | by ATC (see TL table) |
-| Mag Variation | XXº W |
-## Transition Levels
-
-The following table should only be to determine the Transition Level for "Airport Name" ("ICAO").
-
-**TL reference table can be found [here](https://eaip2.vatssa.com/General/common/ssa-transition-table/). - Remove when done**
-| QNH Range | TL |
-| :---------: | :---------: |
-| 995 - 1013 | XX |
-| 1014 - 1031 | XX |
-| 1032 - 1049 | XX |
-| 1050 - 1060 | XX |
+| ICAO | GOOY |
+| IATA | DKR |
+| Elevation | 85ft |
+| Transition Altitude | 2600ft |
+| Transition Level | by ATC |
+| Mag Variation | 8º W |
 
 ## Declared Distances
 
 | Runway | Course | TORA | TODA | ASDA | LDA | Remarks |
 | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
-| XX    | XXXº    | XXXX     | XXXX     | XXXX     | XXXX    | - |
-| XX    | XXXº    | XXXX     | XXXX     | XXXX     | XXXX    | - |
-| XX    | XXXº    | XXXX     | XXXX     | XXXX     | XXXX    | - |
-| XX    | XXXº    | XXXX     | XXXX     | XXXX     | XXXX    | - |
+| 18    | 181º    |3490     | 3790     | 3550     | 3330    | - |
+| 36    | 001º    | 3490     | 3550     | 3550     | 3490    | - |
+| 03    | 031º    | 1493     | 1493     | 1523     | 1493    | - |
+| 21    | 211º    | 1493     | 1693     | 1523     | 1493    | - |
 
 ## Radio Navigation & Landing Aids
 
