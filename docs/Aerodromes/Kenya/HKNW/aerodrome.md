@@ -26,20 +26,18 @@ Nairobi Wilson Airport (IATA: WIL, ICAO: HKNW)
 
 | Apron | Stands | Entry/Exit Point | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| Apron 1 | XX - XX | Twy X | - |
-| Apron 2 | XX - XX | Twy X | - |
-| Apron 3 | XX - XX | Twy X | - |
-| Apron 4 | XX - XX | Twy X | - |
-| Remote E | XX - XX | Twy X | - |
-| Remote B | XX - XX | Twy X | - |
+| Apron 1 | Publicly Unavailable | Twy B, C | - |
+| Apron 2 | Publicly Unavailable | Twy B, C | - |
+| Apron 3 | Publicly Unavailable | Twy F, B  | - |
+| Apron 4 | Publicly Unavailable | Twy G, A  | - |
+| Remote E | Publicly Unavailable | Twy E1, E2 | - |
+| Remote B | Publicly Unavailable | Twy L, M | - |
 
 ## ATS Frequencies
 
 | Position    | Callsign | Frequency | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| "ICAO"_ATIS  | "Airport Name" ATIS | XXX.XXX   | - |
-| "ICAO"_DEL   | "Airport Name" Delivery | XXX.XXX   | - |
-| "ICAO"_GND   | "Airport Name" "Ground / Apron"| XXX.XXX0   | - |
-| "ICAO"_TWR   | "Airport Name" Tower| XXX.XXX   | - |
-| "ICAO"_APP   | "Airport Name" "Approach / Radar" | XXX.XXX   | - |
-| "ICAO"_CTR   | "Airport Name" "Area / Centre / Radio" | XXX.XXX   | - |
+| HKNW_GND   | Wilson Ground| 121.900   | - |
+| HKNW_TWR   | Wilson Tower| 118.100   | - |
+| HKJK_APP   | Nairobi  Radar | 122.300   | - |
+| HKNA_CTR   | Nairobi Control | 121.300   | - |
