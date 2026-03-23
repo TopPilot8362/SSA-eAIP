@@ -47,4 +47,4 @@ Separation of 1000 ft in RVSM airspace and below then 2000 ft above RVSM airspac
 
   ## VFR Rules
 
-  NO specific VFR rules prescribed for FAJO Johannesburg Oceanic. 
+  No specific VFR rules prescribed for FAJO Johannesburg Oceanic. 
