@@ -7,3 +7,6 @@
 ## Airport Coverage
 
 FAJO Johannesburg Oceanic does not cover any airport. It's a pure Oceanic sector. It does however link with unmanned airfield in the Antartic.
+
+## Classification
+
