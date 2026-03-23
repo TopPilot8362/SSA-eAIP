@@ -10,7 +10,7 @@ FAJO Johannesburg Oceanic does not cover any airport. It's a pure Oceanic sector
 
 ## Classification
 
-| Class     | Type of flights                 | Service provided | Speed Limitation    |
+| Class/type     | Service/speed                 | Radio/ATC clearance |
 |----------------|----------------------|---------|
-| A        | IFR only       | ATC service       |
-| G   | VFR    | Flight Information service       |
+| A/IFR only       | ATC Service and separation/ Speed not applicable       | Continuous two-way/ Yes       |
+| G/VFR   | Flight Information Service/250 kt IAS below 3050m (10 000 ft) AMSL   | Continuous two-way / No      |
