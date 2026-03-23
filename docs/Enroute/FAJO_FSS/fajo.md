@@ -44,3 +44,7 @@ Separation of 1000 ft in RVSM airspace and below then 2000 ft above RVSM airspac
  ## SLOP
 
  The use of SLOP at FAJO Johannesburg Oceanic is possible up to 2 NM. Aircraft transitioning into FACA must transition to SLOP 0.5 NM.
+
+  ## VFR Rules
+
+  NO specific VFR rules prescribed for FAJO Johannesburg Oceanic. 
