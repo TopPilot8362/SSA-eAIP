@@ -69,3 +69,43 @@ The responsibility of Tower at "Airport Name" falls to the dedicated Tower ATS u
 
 SN and S2 are reserved for arrivals and departures to Saly Airfield.
 E5 is reserved for arrivals and departures to Military Aerodrome.
+
+### Entry/ Exit clearances
+
+!!! info "Entry Clearance"
+    GWARY, cleared to enter the CTR from the  West , not above altitude 1500ft, report L  downwind Runway 01.
+
+!!! info "Entry Clearance via STD VFR Routing"
+    GWARY, cleared to enter the CTR, Standard NG-NK-N1-SW Routing, not above altitude 1500ft, Overhead SW.
+
+!!! info "Exit Clearance"
+    GWARY, hold position, after departure Runway 01, exit the CTR to the  E , not above altitude 1500ft, report exiting the CTR.
+    
+!!! info "Exit Clearance via STD VFR Routing"
+    GWARY, hold position, after departure Runway 01, comply with the SW-N1-NK-NG departure, not above altitude 1500ft,  overhead NG.
+
+## Wake Separation
+
+### Arrivals (nm)
+
+| Lead | J | H | M | L |
+|------|---|---|---|---|
+| J    |   |   |   |   |
+| H    | 6 | 4 |   |   |
+| M    | 7 | 5 | 5 |   |
+| L    | 8 | 6 | 5 | 5 |
+
+### Departures (mins)
+
+| Lead | J | H | M | L |
+|------|---|---|---|---|
+| J    |   |   |   |   |
+| H    | 2 |   |   |   |
+| M    | 3 | 2 |   |   |
+| L    | 3 | 2 | 2 |   |
+
+!!! info "Takeoff (Full Length)"
+    GWARY, Surface wind 080 degrees 6 knots , Runway 01, cleared for takeoff.
+
+!!! info "Takeoff (Intersection)"
+    GWARY, Surface wind 080 degrees 6 knots, Runway 01 at C5, cleared for takeoff. 
