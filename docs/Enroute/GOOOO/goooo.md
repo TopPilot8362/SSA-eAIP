@@ -54,4 +54,8 @@ Uncontrolled VFR flights should squawk 7000 unless issued a squawk code by ATC.
 
   ### Sal Oceanic
 
-  
+ | Position/Callsign     | Frequency/CPDLC                 | Remarks |
+|----------------|----------------------|---------|
+| GVSC_FSS/Sal Oceanic       | 128.300/GVSC       | -       |
+
+
