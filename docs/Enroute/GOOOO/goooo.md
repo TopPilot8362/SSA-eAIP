@@ -11,4 +11,5 @@ Dakar Oceanic does not cover any airports.
 | Class/Type     | Service/Speed                 | Radio/Subject to ATC clearance |
 |----------------|----------------------|---------|
 | A/IFR only       | ATC Service and separation/ Speed not applicable       | Continuous two-way/ Yes       |
-| C/IFR   |    | Continuous two-way / No      |
+| C/IFR    | Atc Service and separation IFR from IFR/ Speed not applicable     | Continuous two-way / Yes      |
+| G/IFR   |  Flight information Service and no separation/250 kts IAS below 3050 M  (10 000 ft)   | Continuous two-way / No      |
