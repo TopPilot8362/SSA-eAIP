@@ -13,10 +13,10 @@ The responsibility of Tower at "Airport Name" falls to the dedicated Tower ATS u
 * All circuits are conducted left hand normally, but may be conducted right hand at the discretion of the Tower controller.   
 
 !!! info "Circuit Clearance"
-    GWARY, hold position, after departure Runway 01, L / R hand circuits, not above altitude 1500ft, report L / R downwind Runway 01.
+    GWARY, hold position, after departure Runway 01, L / R hand circuits, not above altitude 1500ft, report L  downwind Runway 01.
 
 !!! info "Circuit Clearance (Non STD)"
-    GWARY, hold position, after departure Runway 01, non standard L / R hand circuits, not above altitude 1500ft, report non standard L / R downwind Runway 01.
+    GWARY, hold position, after departure Runway 01, non standard L / R hand circuits, not above altitude 1500ft, report non standard  R downwind Runway 01.
 
   ### VFR Departures runway 01
 
