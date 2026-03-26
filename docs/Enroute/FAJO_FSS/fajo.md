@@ -51,7 +51,7 @@ Separation of 1000 ft in RVSM airspace and below then 2000 ft above RVSM airspac
 
  ## Sectors
 
- | Position/Callsign     | Frequency/CPDLC                 | Remarks |
+| Position/Callsign     | Frequency/CPDLC                 | Remarks |
 |----------------|----------------------|---------|
 | FAJO_FSS/Johannesburg Oceanic       | 120.850/FAJO       | -       |
 | FAJO_1_FSS/Johannesburg Oceanic   | 120.650/FAJO   | These are Event Support positions Only      |
