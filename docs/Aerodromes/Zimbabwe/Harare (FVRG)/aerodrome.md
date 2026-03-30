@@ -20,14 +20,12 @@ Robert Gabriel Mugabe International Airport, colloquially known as "RGM" or Muga
 | 05      | 052º    | 4725     | 4785     | 5025     | 4725    | -       |
 | 23      | 232º    | -        | -        | -        | 4725    | -       |
 
-### Intersection Departure Distances
+## Radio Navigation & Landing Aids
 
-| Runway | Intersection | TODA   | Remarks |
-|---------|----------------|--------|---------|
-| 05      | H              | 3595 m | -       |
-| 23      | M              | 3595 m | -       |
-
----
+| Type | ID | Frequency | 
+| :---------: | :---------: | :---------: |
+| VOR  | VHA | 113.1 MHz |
+| ILS LOC 05 | IGA | 110.3 MHz |
 
 ## Aprons
 
@@ -36,7 +34,7 @@ Robert Gabriel Mugabe International Airport, colloquially known as "RGM" or Muga
 | Domestic       | -     | 1 - 11     | Twys E, F & M | -     |
 | International  | -     | 1 - 6      | Twy P        | -     |
 
----
+
 
 ## Positions & Frequencies
 
