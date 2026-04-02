@@ -56,9 +56,10 @@ Uncontrolled VFR flights should squawk 7000 unless issued a squawk code by ATC.
 
  | Position/Callsign     | Frequency/CPDLC                 | Remarks |
 |----------------|----------------------|---------|
-| GVSC_CTR/Sal Oceanic       | 128.300/GVSC       | -       |
+| GOOC_FSS/Dakar Radio     | 122.500/GOOC       | -       |
+| GOOC_B_FSS/Dakar Radio       | 124.500/GOOC       | -       |
+| GOOC_A_FSS/Dakar Radio       | 123.500/GOOC       | -       |
 
  | Airspace/Class     | Owner/Limits                 | Remarks |
 |----------------|----------------------|---------|
-| Sal Oceanic UIR/A        | GVSC_CTR/FL245-UNLTD       | -       |
-| Sal Oceanic FIR/?        | GVSC_CTR/GND-FL245       | -       |
+| Dakar UTA/A        | GOOC_FSS/FL245-UNLTD       | -       |
