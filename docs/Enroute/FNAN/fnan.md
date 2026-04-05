@@ -58,7 +58,7 @@ VFR flights shall not be operated above FL200 without approval.
 
 ## CPDLC
 
-CPDLC is available within Luanda FIR. Logon code (FNAN)
+CPDLC is available within Luanda FIR. Logon code (*FNAN*)
 ## Sectors
 
 | Position     | Callsign       | Frequency | CPDLC | Remarks |
