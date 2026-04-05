@@ -25,3 +25,19 @@ The FIR serves all airports in Angola.
 | :::   | VFR              | NIL                    | Flight information service | 250 kt IAS below 3050m (10000 ft) AMSL | Continuous two-way | No | - |
 | G     | IFR              | NIL                    | Flight information service | 250 kt IAS below 3050m (10 000 ft) AMSL | Continuous two-way | No | - | 
 | :::   | VFR              | NIL                    | Flight information service | 250 kt IAS below 3050m (10 000 ft) AMSL | Continuous two-way | No | - |
+
+## Separation
+
+longitudinal time separation normally applied between aircraft at the same level on the same track in Luanda FIR is 20 minutes.
+
+Longitudinal separation based on Mach Number Technique (MNT) between jet aircraft flying on the same track, maintaining cruising level, climbing or descending will be 10 minutes or 9 to 5 minutes if the preceding aircraft is maintaining a faster Mach number than the following aircraft, the required separation shall be according the table below:
+
+a. 9 minutes if the preceding aircraft is maintaining a Mach number 0,02 faster than the following.
+
+b. 8 minutes if the preceding aircraft is maintaining a Mach number 0,03 faster than the following.
+
+c. 7 minutes if the preceding aircraft is maintaining a Mach number 0,04 faster than the following.
+
+d. 6 minutes if the preceding aircraft is maintaining a Mach number 0,05 faster than the following.
+
+e. 5 minutes if the preceding aircraft is maintaining a Mach number 0,06 faster than the following.
