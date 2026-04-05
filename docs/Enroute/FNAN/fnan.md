@@ -41,3 +41,17 @@ c. 7 minutes if the preceding aircraft is maintaining a Mach number 0,04 faster 
 d. 6 minutes if the preceding aircraft is maintaining a Mach number 0,05 faster than the following.
 
 e. 5 minutes if the preceding aircraft is maintaining a Mach number 0,06 faster than the following.
+
+Once the minimum of 10 minutes longitudinal separation based on the MNT is provided, the preceding aircraft shall maintain a Mach number equal or faster than the following.
+
+## Selcal
+
+SELCAL is available within the FNAN FIR airspace.
+
+## SLOP
+
+SLOP is possible on all enroute ATS routes between FL290 and FL410.
+
+## VFR rules
+
+VFR flights shall not be operated above FL200 without approval.
