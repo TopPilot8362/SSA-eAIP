@@ -55,3 +55,9 @@ SLOP is possible on all enroute ATS routes between FL290 and FL410.
 ## VFR rules
 
 VFR flights shall not be operated above FL200 without approval.
+
+## Sectors
+
+| Position     | Callsign       | Frequency | CPDLC | Remarks |
+|--------------|----------------|-----------|--------|---------|
+| FNAN_CTR     | Luanda Control    | 118.500   | FNAN   | -       |
