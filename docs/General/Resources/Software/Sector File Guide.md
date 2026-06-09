@@ -6,7 +6,7 @@ A sector file is a file that contains the designated sector for that FIR. An exa
 
 ## How to install these files?
 
--To install them, head over to the VATSSA website. (alternatively they are also on the docs page.) 
--Then controllers, sector files. All sector files are found there for our division.
+- To install them, head over to the VATSSA website. (alternatively they are also on the docs page.) 
+- Then controllers, sector files. All sector files are found there for our division.
 - This will take you to a website called AeroNav.
 - Since this will be the first time we have installed a sector, please download the install package.
