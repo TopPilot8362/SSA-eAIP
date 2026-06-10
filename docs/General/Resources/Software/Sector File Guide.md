@@ -15,3 +15,4 @@ A sector file is a file that contains the designated sector for that FIR. An exa
 
 So what do we do now? We must load up Euroscope and uncheck two boxes found under Other Settings. These boxes are called "Auto load profile on startup" and "Auto save profile on exit"
 
+![alt text](sector file guide .png) 
